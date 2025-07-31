@@ -40,3 +40,14 @@ To improve object detection and scene segmentation in complex environments by co
 
 ### 🧪 Segmentation Results with Labels
 <img width="1185" height="632" alt="Segmentation Output" src="https://github.com/user-attachments/assets/57b0c1cc-22f9-4631-9ab0-801ed293b280" />
+## 🧰 Requirements
+
+Ensure the following toolboxes and environment are available before running the project:
+
+- **MATLAB R2023a or later**
+- **Computer Vision Toolbox**
+- **Deep Learning Toolbox**
+- **Lidar Toolbox**
+- **Image Processing Toolbox**
+
+---
